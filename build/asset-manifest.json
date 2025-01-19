@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e83f8c84.css",
+    "main.js": "/static/js/main.7db3764d.js",
+    "static/media/coinInsight.jpg": "/static/media/coinInsight.8332f0a3f859358fb791.jpg",
+    "static/media/portfoliowebsite.jpg": "/static/media/portfoliowebsite.4147309b6e2f39bb0462.jpg",
+    "static/media/codePen.jpg": "/static/media/codePen.d73eac4242385872b57d.jpg",
+    "static/media/ME.png": "/static/media/ME.7c2caf7be851e26e30a7.png",
+    "index.html": "/index.html",
+    "main.e83f8c84.css.map": "/static/css/main.e83f8c84.css.map",
+    "main.7db3764d.js.map": "/static/js/main.7db3764d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e83f8c84.css",
+    "static/js/main.7db3764d.js"
+  ]
+}
