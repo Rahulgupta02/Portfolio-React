@@ -97,7 +97,7 @@ img {
 
 .me img{
     position: absolute;
-    bottom: 0%;
+    top: -25%;
 }
 
 /* =========== scroll down  ============= */
